@@ -1,4 +1,5 @@
 # alacritty-nuker
-best &amp; fastest nuker on cord, src.
+
+sexy nuker.
 
 100% created by aced & dropout.
